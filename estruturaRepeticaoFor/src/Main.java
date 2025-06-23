@@ -5,7 +5,7 @@ public class Main {
 
         for (var i = 0; i <= 20; i++) {
 
-            if (i % 2 == 0) {
+            if (i % 2 == 1) {
                 System.out.println(i);
             }
 
